@@ -13,6 +13,6 @@ public class App
 
     public static boolean getTestableVariable()
     {
-        return false;
+        return true;
     }
 }
