@@ -12,7 +12,7 @@ public class MelonTest
     @Test
     public void herrMeloneShouldHaveHisHat()
     {
-        Melon herrMelone = new MelonMan();
+        MelonMan herrMelone = new MelonMan();
         assertTrue(herrMelone.hasHat());
     }
 }
