@@ -7,7 +7,7 @@ import org.junit.Test;
 /**
  * Unit test for finding melon.
  */
-public class MelonTest 
+public class MelonManTest 
 {
     @Test
     public void herrMeloneShouldHaveHisHat()
