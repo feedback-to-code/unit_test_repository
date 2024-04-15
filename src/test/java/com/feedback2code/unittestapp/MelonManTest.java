@@ -13,6 +13,7 @@ public class MelonManTest
     public void herrMeloneShouldHaveHisHat()
     {
         MelonMan herrMelone = new MelonMan();
+        herrMelone.findHat("./");
         assertTrue(herrMelone.hasHat());
     }
 }
