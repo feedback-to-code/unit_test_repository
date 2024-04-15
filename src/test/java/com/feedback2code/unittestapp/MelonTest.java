@@ -12,6 +12,7 @@ public class MelonTest
     @Test
     public void herrMeloneShouldHaveHisHat()
     {
-        assertTrue(HerrMelone.hasHat());
+        Melon herrMelone = new MelonMan();
+        assertTrue(herrMelone.hasHat());
     }
 }
