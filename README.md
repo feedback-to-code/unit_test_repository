@@ -5,3 +5,6 @@ This repository is used for unit testing the components from the pepperoni pipel
 You can run the unit tests with `mvn verify`.
 
 Studenter Snöfler
+
+Faxe Kondi
+
