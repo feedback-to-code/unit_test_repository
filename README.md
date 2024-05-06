@@ -7,4 +7,4 @@ You can run the unit tests with `mvn verify`.
 Studenter Snöfler
 
 Faxe Kondi 0 kalorier
-
+Faxe Appelsin
