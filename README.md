@@ -4,7 +4,7 @@ This repository is used for unit testing the components from the pepperoni pipel
 ## Unit Testing
 You can run the unit tests with `mvn verify`.
 
-Studenter Snöfler
+2 Studenter Snöfler
 
 Faxe Kondi 0 kalorier
 Faxe Appelsin
